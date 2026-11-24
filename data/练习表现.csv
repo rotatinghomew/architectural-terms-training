@@ -1,0 +1,4 @@
+﻿response_id,lesson_version,sample_id,answer_type,result
+A1,L1,S1,名称识别,正确
+A2,L1,S1,结构关系,错误
+A3,L2,S2,用途判断,正确

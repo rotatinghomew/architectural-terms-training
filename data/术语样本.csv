@@ -1,0 +1,4 @@
+﻿sample_id,region,building_type,local_term,normalized_term,location,relation
+S1,甲地,厅堂,楹,柱,前部,支承
+S2,乙地,民居,梁,梁,上部,连接屋架
+S3,丙地,祠堂,椽,椽,屋面,成列承瓦
